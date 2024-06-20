@@ -104,7 +104,7 @@ li a:hover {
   width: 100%;
   height: 100vh;
   overflow: hidden;
-  background-image: url("imges/Home.png");
+  background-image: url("Home.png");
   background-size: cover;
   background-position: center;
 }
@@ -628,7 +628,7 @@ swiper-slide {
 
 @media (max-width: 830px) {
   #home{
-    background-image: url(imges/Home2.png);
+    background-image: url(Home2.png);
   }
   .contact-container {
     display: block;
@@ -809,7 +809,7 @@ swiper-slide {
 }
 @media (max-width: 500px) {
   #home{
-    background-image: url(imges/Home3.png);
+    background-image: url(Home3.png);
   }
   #about {
     justify-content: center;
